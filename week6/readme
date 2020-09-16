@@ -1,0 +1,8 @@
+write a program that implement stack using 
+A. Arrays
+B. Pointers
+Implement the following operations
+i)push
+ii)pop
+iii)is_stack_full
+iv)is_stack_empty
